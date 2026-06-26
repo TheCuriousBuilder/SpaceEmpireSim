@@ -21,7 +21,7 @@ StarEmpireSim is a 2D space strategy game built with Python. In this game, playe
 
 1. Clone this repository:
 
-git clone https://github.com/TheCuriousBuilder/StarEmpireSim.git
+git clone https://github.com/TheCuriousBuilder/star-empire-sim
 
 2. Go into the project folder:
 
